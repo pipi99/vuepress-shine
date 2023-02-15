@@ -2,8 +2,8 @@ import { defaultTheme, defineUserConfig, viteBundler } from 'vuepress';
 
 export default defineUserConfig({
   base: '/',
-  title: 'VuePress Starter',
-  description: 'VuePress Starter Project in Stackblitz',
+  title: 'Shine',
+  description: '一个通用接口项目',
 
   bundler: viteBundler({
     // vite bundler options here
